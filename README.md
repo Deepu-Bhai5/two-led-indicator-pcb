@@ -38,16 +38,17 @@ The board uses:
 
 ## Design
 
-Documentation/schematic.png
+![Schematic](Documentation/schematic.png)
 
-### PCB Layout
+## PCB Layout
 
-Documentation/pcb front.png
-Documentation/pcb back.png
+![PCB Front](Documentation/pcb-front.png)
 
-### 3D View
+![PCB Back](Documentation/pcb-back.png)
 
-Documentation/pcb 3D.png
+## 3D View
+
+![3D View](Documentation/pcb-3d.png)
 
 ## Design Validation
 
