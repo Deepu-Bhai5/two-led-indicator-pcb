@@ -130,3 +130,10 @@ validation.
 | Input Connector | 1×3, 2.54 mm |
 | Board Thickness | 1.6 mm |
 | Copper | 1 oz |
+
+## Author
+
+**Deep Das**  
+B.Tech ECE Student at Delhi Technological University (DTU)
+
+[LinkedIn Profile](https://www.linkedin.com/in/deep-das-03ad4882/)
