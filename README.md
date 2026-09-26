@@ -38,15 +38,16 @@ The board uses:
 
 ## Design
 
-[Insert schematic image here]
+Documentation/schematic.png
 
 ### PCB Layout
 
-[Insert PCB front image here]
+Documentation/pcb front.png
+Documentation/pcb back.png
 
 ### 3D View
 
-[Insert 3D render here]
+Documentation/pcb 3D.png
 
 ## Design Validation
 
