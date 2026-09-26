@@ -48,7 +48,7 @@ The board uses:
 
 ## 3D View
 
-![3D View](Documentation/pcb-3d.png)
+![3D View](Documentation/pcb-3D.png)
 
 ## Design Validation
 
