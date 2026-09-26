@@ -117,3 +117,16 @@ validation.
 **Electrical validation:** Complete  
 **Manufacturing DFM:** Final cleanup in progress  
 **Fabrication:** Pending
+
+## Specifications
+
+| Parameter | Value |
+|---|---|
+| PCB Layers | 2 |
+| Board Size | ~35.5 × 20.75 mm |
+| Components | Through-hole |
+| Resistors | 200 Ω × 2 |
+| LEDs | 3 mm × 2 |
+| Input Connector | 1×3, 2.54 mm |
+| Board Thickness | 1.6 mm |
+| Copper | 1 oz |
