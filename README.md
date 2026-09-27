@@ -112,6 +112,8 @@ validation.
 
 - KiCad
 - PCB manufacturer's DFM checker
+- JLCDFM [JLCDFM](https://jlcdfm.com/)
+
 
 ## Project Status
 
