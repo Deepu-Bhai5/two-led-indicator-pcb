@@ -50,6 +50,8 @@ The board uses:
 
 ![3D View](Documentation/pcb-3D.png)
 
+![3D View Bottom](Documentation/pcb-3D-back.png)
+
 ## Design Validation
 
 The PCB was checked using KiCad's Design Rule Checker.
