@@ -113,10 +113,9 @@ validation.
 
 - Fabricate and test the PCB
 - Add input protection
-- Improve silkscreen layout
 - Explore a more compact PCB layout
 - Develop a more functional LED indicator circuit
-
+  
 ## Tools
 
 - KiCad
